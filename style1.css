@@ -231,7 +231,7 @@ ul li:hover ul.drop1{
     color: white;
 }
 /* Mobile-first: Small screens */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 460px) {
     nav{
         margin-top: -5%;
     }
